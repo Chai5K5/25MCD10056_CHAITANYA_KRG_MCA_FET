@@ -1,0 +1,8 @@
+.card.overdue {
+    border: 2px solid red;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
