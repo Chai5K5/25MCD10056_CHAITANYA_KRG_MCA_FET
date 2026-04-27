@@ -1,3 +1,10 @@
+
+### Demo: 
+<img width="800" height="442" alt="20260427-0709-22 7321814-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d417db62-1cfb-4d58-b866-fbf94c3293fb" />
+
+### Screenshots: 
+<img width="1829" height="1036" alt="image" src="https://github.com/user-attachments/assets/c5b03097-9194-4776-b822-fb12b3b9c98e" />
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -28,9 +35,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
